@@ -1,6 +1,6 @@
 -- Rush Hour Puzzle Solver
 -- by Cate Nestor & Nick Zhu
--- University of British Colbumia
+-- University of British Columbia
 -- CPSC 312 Term 1 Winter 2012
 
 -- test boards live here:
